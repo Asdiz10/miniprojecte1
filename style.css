@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    gap: 30px;
+
+}
+
+main{
+    margin-right: 30px;
+
+}
+
+header{
+    width: 500px;
+    background-color: rgb(237, 235, 235);
+
+}
+
+
+header ul li a{
+    text-decoration: none;
+    color: blue;
+
+}
+
+header ul{
+    list-style: none;
+   color: rgb(0, 0, 0);
+
+}
+
+header ul li{
+    margin-bottom: 15px;
+   
+
+}
+
